@@ -1,6 +1,3 @@
-export UV_CACHE_DIR=/private/tmp/vaaris-uv-cache
-export UV_PYTHON_INSTALL_DIR=/private/tmp/vaaris-uv-python
-
 .PHONY: setup verify test index eval bench-report demo
 setup:
 	uv sync --extra dev
