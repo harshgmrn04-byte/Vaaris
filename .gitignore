@@ -1,0 +1,17 @@
+.venv/
+.env
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+data/raw/
+data/processed/
+data/index/
+data/MISSING.md
+*.db
+*.sqlite
+*.sqlite3
+*.jsonl.tmp
+logs/
+.cache/
+

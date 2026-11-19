@@ -1,0 +1,61 @@
+# Starter catalog checked against official publisher pages on 2026-11-17.
+# Redistribution is unclear for every item until the owner records a decision.
+- doc_id: rbi_claims_2025
+  title: Reserve Bank of India (Settlement of Claims in respect of Deceased Customers of Banks) Directions, 2025
+  issuer: Reserve Bank of India
+  doc_type: regulator
+  url: https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12901
+  effective_date: 2026-03-31 # latest implementation deadline in paragraph 5
+  status: final
+  bank: ""
+  redistribution: unclear
+
+- doc_id: rbi_claims_draft_2025
+  title: Draft Settlement of Claims in respect of Deceased Customers of Banks Directions, 2025
+  issuer: Reserve Bank of India
+  doc_type: regulator
+  url: https://www.rbi.org.in/scripts/Bs_Connect2RegulateDetails.aspx?prid=12
+  effective_date: 2025-08-06 # draft consultation date, not a binding effective date
+  status: draft
+  bank: ""
+  redistribution: unclear
+
+- doc_id: rbi_nomination_2025
+  title: Reserve Bank of India Nomination Facility Directions, 2025
+  issuer: Reserve Bank of India
+  doc_type: regulator
+  url: https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12919
+  effective_date: 2025-11-01
+  status: final
+  bank: ""
+  redistribution: unclear
+
+- doc_id: indian_succession_act_1925
+  title: The Indian Succession Act, 1925
+  issuer: India Code
+  doc_type: statute
+  url: https://www.indiacode.nic.in/bitstream/123456789/2385/1/a1925-39.pdf
+  effective_date: 1925-09-30 # enactment date shown by India Code
+  status: final
+  bank: ""
+  redistribution: unclear
+
+- doc_id: sbi_deceased_faq_2023
+  title: FAQ Deceased Accounts
+  issuer: State Bank of India
+  doc_type: bank_faq
+  url: https://sbi.bank.in/web/faq-s/faq-deceased-accounts
+  effective_date: 2023-08-11 # page's Last Updated date
+  status: superseded # kept as a staleness trap pending current bank review
+  bank: SBI
+  redistribution: unclear
+
+- doc_id: sbi_deceased_settlement_2025
+  title: Deceased Claim Settlement of Bank Deposits, Safe Deposit Lockers and Safe Custody Articles
+  issuer: State Bank of India
+  doc_type: bank_procedure
+  url: https://sbi.bank.in/web/personal-banking/information-services/deceased-settlement
+  effective_date: 2025-12-16 # SBI says revised procedure applies from this date
+  status: final
+  bank: SBI
+  redistribution: unclear
